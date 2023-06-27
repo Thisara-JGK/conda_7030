@@ -8,10 +8,10 @@ dependencies:
   - plotly
   - pandas
   - matplotlib
-  - scikitlearn
+  - scikit-learn
   - numpy
   - r-base=4.0
-  - r-dpylyr
+  - r-dplyr
   - r-ggplot2
   - r-reshape2
   - r-tidyverse
