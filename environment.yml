@@ -11,9 +11,9 @@ dependencies:
   - scikitlearn
   - numpy
   - r-base=4.0
-  - dplyr
-  - ggplot2
-  - reshape2
-  - tidyverse
-  - plotly
-  - stringr
+  - r-dpylyr
+  - r-ggplot2
+  - r-reshape2
+  - r-tidyverse
+  - r-plotly
+  - r-stringr
